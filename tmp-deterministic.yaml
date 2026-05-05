@@ -1,0 +1,9 @@
+model:
+  model_class: deterministic
+  model_name: deterministic
+  outputs:
+    - role: assistant
+      content: done
+      extra:
+        actions:
+          - command: echo COMPLETE_TASK_AND_SUBMIT_FINAL_OUTPUT
