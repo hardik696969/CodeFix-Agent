@@ -4,9 +4,9 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "mini-swe-agent"
+name = "CodeFix-Agent"
 dynamic = ["version"]
-description = "Mini SWE Agent - A simple AI software engineering agent"
+description = "CodeFix Agent - An AI software engineering agent for code fixing"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {file = "LICENSE.md"}
