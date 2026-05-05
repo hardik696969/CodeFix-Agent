@@ -1,0 +1,12 @@
+[33m009c782[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Add Web UI, Evaluation, Feedback Loop, Logging, Docker & Docs
+[33mee74822[m Add professional README
+[33mc1b4033[m Initial commit - CodeFix-Agent
+[33ma98166e[m Simplify .gitignore to track all files except environment and cache files
+[33md7c6b7a[m Add files via upload
+[33m228a7ec[m Update project name and description to CodeFix Agent
+[33mf68b3a1[m Initial commit - mini-swe-agent under solo contribution
+[33mde43d0b[m Delete README.md
+[33me5897db[m Delete LICENSE.md
+[33me5c69e4[m Clean up README.md by removing content
+[33mee6f55e[m Delete .env
+[33m6b5fb74[m Add files via upload
